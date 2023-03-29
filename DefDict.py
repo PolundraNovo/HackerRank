@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true
 from collections import defaultdict
 l1 = input().split()
 n, m = int(l1[0]), int(l1[1])
